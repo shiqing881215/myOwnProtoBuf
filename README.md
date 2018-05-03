@@ -11,5 +11,8 @@ General steps to use this : <br/>
 4. Compile the .proto file into generated java files <br/>
 5. Use the java files to write test <br/>
 
-Detail also refer to my Protobuf Notes https://docs.google.com/document/d/15mDHDalt5wULn7_I-OYbaqyd27YzC3y9pyB2H09rkyk/edit#
+Detail also refer to my Protobuf Notes https://docs.google.com/document/d/15mDHDalt5wULn7_I-OYbaqyd27YzC3y9pyB2H09rkyk/edit# <br/>
+
+Another good article to read is to compare different serialize/deserialize framework as Protobuf vs Thrift vs Avro <br/>
+https://ganges.usc.edu/pgroupW/images/a/a9/Serializarion_Framework.pdf
 
